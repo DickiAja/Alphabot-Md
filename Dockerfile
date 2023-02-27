@@ -16,4 +16,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "zeeone.js"]
+CMD ["node", "alpa.js"]
